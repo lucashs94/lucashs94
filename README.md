@@ -24,7 +24,4 @@ Estou sempre buscando formas de automatizar minhas tarefas com ajuda da tecnolog
   <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
           
 </div>   
-
-
-##
-          
+  
