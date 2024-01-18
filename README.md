@@ -22,6 +22,7 @@ Estou sempre buscando formas de automatizar minhas tarefas com ajuda da tecnolog
   <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
   <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img width='50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
           
 </div>   
   
