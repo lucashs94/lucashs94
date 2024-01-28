@@ -4,7 +4,7 @@ Estou sempre buscando formas de automatizar minhas tarefas com ajuda da tecnolog
 
 - Engenheiro
 - Entusiasta de tecnologia
-- Dev FullStack em desenvolvimento
+- Dev FullStack
 
 ##
 
